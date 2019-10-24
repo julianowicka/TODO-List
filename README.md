@@ -1,5 +1,5 @@
 # TODO-List
-TODO list react, summer coding bootcamp 2019 StayAgile Ecom Software
+TODO list react,  2019 StayAgile Ecom Software
 
 Prosta aplikacja pozwalająca dodawać zadania do wykonania.
 
